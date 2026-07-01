@@ -1,0 +1,6 @@
+{
+  "name": "Torneio Beach Tennis por Equipes",
+  "description": "Gerenciador de torneio de beach tennis por equipes com cadastro de duplas, controle de pontuação e ranking de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
